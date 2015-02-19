@@ -4,6 +4,7 @@
 void f()
 {
 	printf("%s\n", "func");
+	printf("%s\n", "func");
 }
 
 int main()
